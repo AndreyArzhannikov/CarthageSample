@@ -6,6 +6,6 @@
 //  Copyright © 2017 Andrey Arzhannikov. All rights reserved.
 //
 
-func greeting() -> String {
+public func greeting() -> String {
     return "Hellow from Carthage Framework"
 }
